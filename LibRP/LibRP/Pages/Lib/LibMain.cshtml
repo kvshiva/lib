@@ -1,0 +1,33 @@
+﻿@page
+@model LibRP.Pages.Lib.LibMainModel
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Library";
+}
+<h1>Welcome to my library!</h1>
+<br />
+<img src="~/images/Wren_Library.jpg" alt="Wren"/><br /><br />
+<div class="parent">
+    <div class="child">
+        <p>This library introduces books recommended by me or other users. They can be about anything. Here you can:</p>
+        <ul>
+            <li>View all books</li>
+            <li>Edit any book that you think has false information</li>
+            <li>Add your own recommended books.</li>
+            <li>Search for existing books.</li>
+            <li>Delete any book that you think is not worth being recommended.(I hope you don't delete my favorite books!)</li>
+            <li>Additionaly, you can access information about authors and publishers.</li>
+        </ul>
+        <p>The photo is taken from the Wren library by the way ;) Wren is the main library of Trinity college in Cambridge university. </p>
+    </div>
+    <div class="child">
+        <h5>
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="~/lib/book/bookmain">Books</a><br /><br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="~/lib/author/authormain">Authors</a>&nbsp;&nbsp;<br /><br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="~/lib/publisher/publishermain">Publishers</a><br /><br />
+       </h5>
+    </div>
+</div>
+
+
+

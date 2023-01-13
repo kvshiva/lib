@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\MyProjects\LibManage\LibData\LibData\bin\Debug\net6.0\LibData.deps.json
+C:\Users\ASUS\Desktop\MyProjects\LibManage\LibData\LibData\bin\Debug\net6.0\LibData.dll
+C:\Users\ASUS\Desktop\MyProjects\LibManage\LibData\LibData\bin\Debug\net6.0\LibData.pdb
+C:\Users\ASUS\Desktop\MyProjects\LibManage\LibData\LibData\obj\Debug\net6.0\LibData.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\MyProjects\LibManage\LibData\LibData\obj\Debug\net6.0\LibData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\MyProjects\LibManage\LibData\LibData\obj\Debug\net6.0\LibData.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\MyProjects\LibManage\LibData\LibData\obj\Debug\net6.0\LibData.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\MyProjects\LibManage\LibData\LibData\obj\Debug\net6.0\LibData.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\MyProjects\LibManage\LibData\LibData\obj\Debug\net6.0\LibData.dll
+C:\Users\ASUS\Desktop\MyProjects\LibManage\LibData\LibData\obj\Debug\net6.0\refint\LibData.dll
+C:\Users\ASUS\Desktop\MyProjects\LibManage\LibData\LibData\obj\Debug\net6.0\LibData.pdb
+C:\Users\ASUS\Desktop\MyProjects\LibManage\LibData\LibData\obj\Debug\net6.0\ref\LibData.dll
+C:\Users\ASUS\Desktop\MyProjects\LibManage\LibData\LibData\bin\Debug\net6.0\LibData.runtimeconfig.json
+C:\Users\ASUS\Desktop\MyProjects\LibManage\LibData\LibData\obj\Debug\net6.0\LibData.genruntimeconfig.cache

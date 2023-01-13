@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LibRP
+build_property.RootNamespace = LibRP
+build_property.ProjectDir = C:\Users\ASUS\Desktop\MyProjects\LibManage\LibRP\LibRP\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\ASUS\Desktop\MyProjects\LibManage\LibRP\LibRP
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ASUS/Desktop/MyProjects/LibManage/LibRP/LibRP/Pages/AboutMe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRNZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/MyProjects/LibManage/LibRP/LibRP/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/MyProjects/LibManage/LibRP/LibRP/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/MyProjects/LibManage/LibRP/LibRP/Pages/Lib/Author/AuthorMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGliXEF1dGhvclxBdXRob3JNYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/MyProjects/LibManage/LibRP/LibRP/Pages/Lib/Book/BookDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGliXEJvb2tcQm9va0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/MyProjects/LibManage/LibRP/LibRP/Pages/Lib/Book/BookInsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGliXEJvb2tcQm9va0luc2VydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/MyProjects/LibManage/LibRP/LibRP/Pages/Lib/Book/BookMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGliXEJvb2tcQm9va01haW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/MyProjects/LibManage/LibRP/LibRP/Pages/Lib/Book/BookMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGliXEJvb2tcQm9va01lc3NhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/MyProjects/LibManage/LibRP/LibRP/Pages/Lib/Book/BookSearch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGliXEJvb2tcQm9va1NlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/MyProjects/LibManage/LibRP/LibRP/Pages/Lib/Book/BookView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGliXEJvb2tcQm9va1ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/MyProjects/LibManage/LibRP/LibRP/Pages/Lib/LibMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGliXExpYk1haW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/MyProjects/LibManage/LibRP/LibRP/Pages/Lib/Publisher/PublisherMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGliXFB1Ymxpc2hlclxQdWJsaXNoZXJNYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/MyProjects/LibManage/LibRP/LibRP/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/MyProjects/LibManage/LibRP/LibRP/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/MyProjects/LibManage/LibRP/LibRP/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/MyProjects/LibManage/LibRP/LibRP/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/MyProjects/LibManage/LibRP/LibRP/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-725bgehxb9

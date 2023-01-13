@@ -1,0 +1,31 @@
+﻿@page
+@model LibRP.Pages.Lib.Book.BookViewModel
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Books List";
+}
+<h1>Here is the list of all books:</h1><br />
+<table>
+    <tr>
+        <th>&nbsp;Title&nbsp;</th>
+        <th>&nbsp;ISBN&nbsp;</th>
+        <th>&nbsp;Year&nbsp;</th>
+        <th>&nbsp;ID&nbsp;</th>
+        <th>&nbsp;First Author ID&nbsp;</th>
+        <th>&nbsp;Category ID&nbsp;</th>
+        <th>&nbsp;Publisher ID&nbsp;</th>
+    </tr>
+    @foreach (var item in Model.AllBooks)
+    {
+      <tr>
+        <td>@item.Title</td>
+        <td>@item.Isbn</td>
+        <td>@item.Year</td>
+        <td>@item.Id</td>
+        <td>@item.FirstAuthorId</td>
+        <td>@item.CategoryId</td>
+        <td>@item.PublisherId</td>
+      </tr>
+    }
+</table>
+
